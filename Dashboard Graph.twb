@@ -491,8 +491,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='850' minheight='850' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='10' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97142' id='9' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1429'>
+            <zone h='100000' id='12' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97142' id='11' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1429'>
                 <zone fixed-size='267' h='31071' id='3' is-fixed='true' name='Heart Rate' w='99692' x='308' y='6250'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
